@@ -8,8 +8,14 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.Socket;
 
+
 public class FirstSocketClient {
-	
+
+	/**
+	 *
+	 * @param args
+	 * @throws IOException
+	 */
 	public static void main(String[] args) throws IOException
 	{
 		//try with resource
